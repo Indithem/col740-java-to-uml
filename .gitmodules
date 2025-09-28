@@ -1,0 +1,6 @@
+[submodule "tree-sitter-java"]
+	path = tree-sitter-java
+	url = https://github.com/tree-sitter/tree-sitter-java.git
+[submodule "examples/spring-petclinic"]
+	path = examples/spring-petclinic
+	url = https://github.com/spring-projects/spring-petclinic.git
